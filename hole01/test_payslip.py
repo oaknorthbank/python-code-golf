@@ -1,4 +1,4 @@
-from hole3.payslip import Payslip
+from hole01.payslip import Payslip
 
 
 def test_tax_is_zero_if_gross_is_below_tax_free_limit():

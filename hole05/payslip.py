@@ -1,4 +1,4 @@
-from hole4.tax_calculator import TaxCalculator
+from hole05.tax_calculator import TaxCalculator
 
 
 class Payslip:

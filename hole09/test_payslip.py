@@ -1,5 +1,5 @@
-from hole9.banded_tax_calculator import BandedTaxCalculator
-from hole9.payslip import Payslip
+from hole09.banded_tax_calculator import BandedTaxCalculator
+from hole09.payslip import Payslip
 
 
 def test_tax_is_zero_if_gross_is_below_tax_free_limit():

@@ -1,5 +1,5 @@
-from hole7.payslip import Payslip
-from hole7.tax_calculator import TaxCalculator
+from hole08.payslip import Payslip
+from hole08.tax_calculator import TaxCalculator
 
 
 def test_tax_is_zero_if_gross_is_below_tax_free_limit():
