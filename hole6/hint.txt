@@ -1,0 +1,2 @@
+TaxCalculator is very hard-coded. There is a common pattern around the start of every tax bracket,
+and the rate for that bracket. These could change.

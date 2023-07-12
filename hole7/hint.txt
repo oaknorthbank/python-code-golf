@@ -1,0 +1,1 @@
+This is a better version of TaxCalculator, but there's still repetition in the way bands are used
